@@ -39,7 +39,7 @@ This project is a task manager API built using Node.js. It allows users to manag
 1. Clone the repository:
 
 ```
-git clone <repository_url>
+git clone (https://github.com/SIDDH5320/TaskManager-API.git)
 ```
 
 2. Install dependencies:

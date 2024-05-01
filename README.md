@@ -12,7 +12,7 @@ This project is a task manager API built using Node.js. It allows users to manag
 - `/api/tasks/:id` [DELETE]: Delete a task by its ID.
 
 ### 2. Database
-- Use a relational database (e.g., MySQL, PostgreSQL) or a NoSQL database (e.g., MongoDB) to store task information.
+- Used Mongodb
 - Database schema includes fields: ID, title, description, creation date, status.
 - Proper indexing for performance optimization.
 

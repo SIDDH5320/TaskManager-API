@@ -5,11 +5,11 @@ This project is a task manager API built using Node.js. It allows users to manag
 ## Requirements
 
 ### 1. API Endpoints
-- `/api/tasks` [POST]: Create a new task.
-- `/api/tasks` [GET]: Retrieve all tasks.
-- `/api/tasks/:id` [GET]: Retrieve a single task by its ID.
-- `/api/tasks/:id` [PUT]: Update a task by its ID.
-- `/api/tasks/:id` [DELETE]: Delete a task by its ID.
+- `localhost:{portnumber}/tasks` [POST]: Create a new task.
+- `localhost:{portnumber}/tasks` [GET]: Retrieve all tasks.
+- `localhost:{portnumber}/tasks/:id` [GET]: Retrieve a single task by its ID.
+- `localhost:{portnumber}/tasks/:id` [PUT]: Update a task by its ID.
+- `localhost:{portnumber}/tasks/:id` [DELETE]: Delete a task by its ID.
 
 ### 2. Database
 - Used Mongodb
